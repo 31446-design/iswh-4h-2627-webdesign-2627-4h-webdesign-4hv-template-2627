@@ -1,11 +1,13 @@
 body {
-    background-color: rgb(252, 216, 247);
+    background-color: rgb(252, 224, 248);
 }
 
 h1 {
     color: rgb(189, 7, 174);
 }
-
+h2 {
+    color: rgb(245, 143, 194);
+}
 p {
     font-size: 17px;
 }
